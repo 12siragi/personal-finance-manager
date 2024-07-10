@@ -22,8 +22,7 @@ This project is a web-based application for managing personal finances. It provi
 
 ### Backend
 
-- Node.js
-- Express.js
+- Django
 - PostgreSQL (or MongoDB for NoSQL option)
 - Sequelize (or Mongoose for MongoDB)
 
